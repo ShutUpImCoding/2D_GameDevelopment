@@ -9,7 +9,7 @@ import android.view.SurfaceView
 import kotlin.math.sqrt
 
 class GameView(context: Context) : SurfaceView(context), Runnable {
-
+//test
     private var ballX = 300f
     private var ballY = 300f
     private val ballRadius = 50f
